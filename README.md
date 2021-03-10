@@ -6,7 +6,7 @@
 
 #### **Result:** Take a look at this project : https://advance-css-ba2f6f.netlify.app/
 
-### Description
+## Description
 
 This final assignment consists of 3 separate CSS challenges, which are getting more and more difficult.
 
