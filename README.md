@@ -1,6 +1,6 @@
 ## Advance CSS / SCSS
 
-//img
+![acss](https://user-images.githubusercontent.com/72910410/110714377-8dc5df00-8203-11eb-9f9d-8bdf03b710ff.jpg)
 
 #### **Assignment : Advance CSS **
 
