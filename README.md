@@ -2,7 +2,7 @@
 
 ![acss](https://user-images.githubusercontent.com/72910410/110714377-8dc5df00-8203-11eb-9f9d-8bdf03b710ff.jpg)
 
-#### **Assignment : Advance CSS **
+#### **Assignment : Advance CSS**
 
 #### **Result:** Take a look at this project : https://advance-css-ba2f6f.netlify.app/
 
@@ -13,7 +13,7 @@ This final assignment consists of 3 separate CSS challenges, which are getting m
 - Use Sass and the BEM principle for each assignment.
 - The site should not scroll horizontally unless your window is very narrow (think less than 400px)
 
-## specification:
+## Specification:
 
 ### Level 1: Make a testimonial
 
