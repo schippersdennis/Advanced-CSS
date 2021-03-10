@@ -19,10 +19,10 @@ This final assignment consists of 3 separate CSS challenges, which are getting m
 
 Create a Testimonial card. The map should look exactly the same as our example
 
-- footer testimonial - purple / blue: # 686de0
-- Background page - gray: # c3cfe2
-- Text background color - white: #fff
-- You can use a random portrait photo, of yourself or a stock photo.
+>- footer testimonial - purple / blue: # 686de0
+>- Background page - gray: # c3cfe2
+>- Text background color - white: #fff
+>- You can use a random portrait photo, of yourself or a stock photo.
 
 ### Level 2: Portfolio Grid
 
