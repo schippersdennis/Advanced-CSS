@@ -1,4 +1,4 @@
-## Advance CSS / SCSS
+## Advance CSS by making use of SCSS & BEM principles
 
 ![acss](https://user-images.githubusercontent.com/72910410/110764901-e02eec00-8253-11eb-8655-82691bd23b04.jpg)
 
