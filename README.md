@@ -2,7 +2,7 @@
 
 ![acss](https://user-images.githubusercontent.com/72910410/110764901-e02eec00-8253-11eb-8655-82691bd23b04.jpg)
 
-#### **Assignment : Advance CSS**
+#### **Assignment : Advance CSS by making use of SCSS & BEM principles**
 
 #### **Result:** Take a look at this project : https://advance-css-ba2f6f.netlify.app/
 
